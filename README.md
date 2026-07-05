@@ -1,4 +1,4 @@
-# Computer Vision — Course Assignments (Universität Bern)
+# Computer Vision — Course Assignments
 
 Assignments from the **Computer Vision** course at the **University of Bern**, taken as part of my Master's in Computer Science. The course covered image formation, image processing, feature detection, segmentation, multiple-view geometry, 3D reconstruction, motion, and object recognition.
 
