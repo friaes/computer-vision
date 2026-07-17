@@ -46,6 +46,8 @@ The core deliverable is `hessian_matrix.py`, which assembles the **Hessian of th
 
 **Files:** `hessian_matrix.py` (the sparse energy Hessian), `Assignment2.ipynb` (the GD/LGS solvers, experiments, and results), plus the assignment brief and worked exercises as PDFs.
 
+![](images/image_inpainting.png)
+
 ## Assignment 3 — Multiple-view geometry & 3D reconstruction
 
 **Folder:** `assingnment3/`
