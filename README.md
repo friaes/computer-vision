@@ -28,8 +28,8 @@ The stages:
 **Files:** `frontalization.py` (steps 1–3), `recognition.py` (steps 4–5), `sudoku_solver.py` (step 6), `pipeline.py` (the stage orchestrator + visualisation), `template.py` / `create_templates.py` (digit template bank), `utils.py`, plus `sudoku_solver.ipynb` for running and visualising the whole thing. Sample puzzles live in `sudoku_puzzles/` and cached results in `frontalized_images/`.
 
 <p float="left">
-  <img src="images/image copy.png" width="474" />
-  <img src="images/image.png" width="400" /> 
+  <img src="images/frontalization.png" width="400" />
+  <img src="images/sudoku_solved.png" width="338" /> 
 </p>
 
 
